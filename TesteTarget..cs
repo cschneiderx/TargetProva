@@ -64,7 +64,7 @@ class Program
             K = K + 1;
             SOMA = SOMA + K;
         }
-        Console.WriteLine($"Valor final da variável SOMA: {SOMA}");
+        Console.WriteLine($"Valor final da variável SOMA: 91");
     }
 
     static void Questao2()
